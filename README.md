@@ -4,6 +4,9 @@ https://isomer04.github.io/monster-rolodex/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+![Screenshot_380](https://user-images.githubusercontent.com/43922158/217970358-d6cc5e3c-9196-4b1c-89ef-a63665900dba.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
